@@ -1,5 +1,6 @@
 the ranibow
 pink
+yellow
 red
 green
 blue
